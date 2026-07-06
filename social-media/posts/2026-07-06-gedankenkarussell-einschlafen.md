@@ -11,8 +11,8 @@
 | Plattform | TikTok |
 | Format | Video |
 | Content-Säule | Problem & Lösung |
-| Schmerzpunkt-Bezug | N/A – noch kein Report vorhanden (Ordner `research/schmerzpunkte/` enthält aktuell keine Analysen) |
-| Trend-Bezug | N/A – noch kein Report vorhanden (Ordner `research/trends/` enthält aktuell keine Reports) |
+| Schmerzpunkt-Bezug | `research/schmerzpunkte/2026-07-06-erwachsene-schlafprobleme-stress-angst.md` – Fokus Einschlafprobleme/Gedankenkreisen (Segment 1); Wirkaussage bewusst weich gemäß Schmerzpunkt Nr. 3 (Wirkung individuell). *Nachgetragen: Zum Erstellzeitpunkt lag noch kein Report vor.* |
+| Trend-Bezug | `research/trends/2026-07-06-trend-report-kw-28.md`, Trend Nr. 3 (Emotional-Support-/Bedtime-Content). *Nachgetragen: Zum Erstellzeitpunkt lag noch kein Report vor.* |
 
 ## Idee & Kernbotschaft
 
