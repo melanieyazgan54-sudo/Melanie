@@ -7,6 +7,19 @@
 - **Inhaberin:** Melanie, E-Commerce (Shopify-Stores).
 - **Marke:** Knuvi – Weighted Plushies (gewichtete Kuscheltiere). Tonalität: gemütlich, warm, beruhigend, per Du, leicht verspielt.
 - **Kernaufgaben:** Ad Creatives, UGC-Skripte, Influencer-Outreach, CRO, organischer Social-Media-Content, Trend-Recherche, Schmerzpunkt-Analyse.
+
+## Markenfakten Knuvi (Quelle: Melanies Winner-Skripte, `winnerskripte/Knuvi_Winner_Skripte.pdf`, Stand 2026-07-06)
+
+Diese Fakten sind belegt und dürfen ohne Platzhalter verwendet werden – alles darüber hinaus bleibt Platzhalter-Pflicht:
+
+- **Produkt:** Gewichteter Kuschelfreund mit gewichteten Armen, die sich beim Umarmen um einen legen („gehalten werden statt zugedeckt sein"). Wirkprinzip: Tiefendruck (Deep Pressure).
+- **Varianten:** Panda, Faultier, Koala, Hund.
+- **Shop:** Knuvi.de
+- **Social Proof:** über 7.000 Kund:innen (Stand Juli 2026).
+- **Angebot:** 30 Tage Geld-zurück-Garantie, kostenloser Versand.
+- **Slogan:** „Gönn dir eine Umarmung, die bleibt."
+- **Positionierung:** „das kuscheligste Gewichtstier 2026" (Kundenstimme aus den Winner-Skripten).
+- **Vorsicht bei Wirkaussagen:** Formulierungen wie „senkt den Cortisolspiegel", „setzt Serotonin frei", „reduziert Angst" stammen aus Melanies bezahlten Winner-Ads. In neuen Ads nur nach ihrem Muster verwenden; in organischem Content stattdessen weiche Formulierungen („kann helfen, zur Ruhe zu kommen"). Im Zweifel Melanie fragen.
 - **Kein Code-Projekt:** Dieses Repo enthält Marketing-Dokumente in Markdown, keinen Anwendungscode. Es gibt keine Builds, Tests oder Linter.
 
 ## Grundregeln (immer gültig)
