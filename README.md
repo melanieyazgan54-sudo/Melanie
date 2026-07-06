@@ -16,6 +16,8 @@ Dieses Repository ist die einzige Quelle der Wahrheit für alle Marketing-Assets
 | 🎬 UGC-Skripte | [`ugc-scripts/`](ugc-scripts/README.md) | Skripte für User-Generated-Content-Videos |
 | 🤝 Influencer-Outreach | [`influencer-outreach/`](influencer-outreach/README.md) | Outreach-Templates und Kontakt-Tracking |
 | 📈 CRO | [`cro/`](cro/README.md) | Shopify-Audits, A/B-Test-Log, Checklisten |
+| 📱 Social Media | [`social-media/`](social-media/README.md) | Organische Posts für Knuvi (Agent: `knuvi-creative-agent`) |
+| 🔎 Research | [`research/`](research/README.md) | Trend-Reports + Schmerzpunkt-Analysen (Agents: `knuvi-trend-scout`, `knuvi-psychologie-analyst`) |
 | 🤖 Claude-Setup | [`CLAUDE.md`](CLAUDE.md) + [`.claude/skills/`](.claude/skills/) | Regeln, Konventionen und Skills für Claude Code |
 
 ## Schnellstart (für Claude Code)
@@ -57,6 +59,16 @@ Melanie/
 │   ├── templates/             ← Audit-Checkliste
 │   ├── audits/                ← Durchgeführte Audits, eine Datei pro Seite
 │   └── ab-test-log.md         ← Alle A/B-Tests mit Hypothese und Ergebnis
+├── social-media/
+│   ├── README.md
+│   ├── templates/             ← Post-Template (Bild/Video/Carousel)
+│   └── posts/                 ← Organische Post-Entwürfe, eine Datei pro Post
+├── research/
+│   ├── README.md
+│   ├── templates/             ← Trend-Report- + Schmerzpunkt-Template
+│   ├── trends/                ← Wöchentliche Trend-Reports
+│   └── schmerzpunkte/         ← 14-tägige Zielgruppen-Analysen
 └── .claude/
-    └── skills/                ← Ein Skill pro Kernaufgabe, mit Akzeptanzkriterien
+    ├── skills/                ← Ein Skill pro Kernaufgabe, mit Akzeptanzkriterien
+    └── agents/                ← Knuvi-Agents: Creative, Trend-Scout, Psychologie-Analyst
 ```

@@ -5,7 +5,8 @@
 ## Projektkontext
 
 - **Inhaberin:** Melanie, E-Commerce (Shopify-Stores).
-- **Vier Kernaufgaben:** Ad Creatives, UGC-Skripte, Influencer-Outreach, CRO.
+- **Marke:** Knuvi – Weighted Plushies (gewichtete Kuscheltiere). Tonalität: gemütlich, warm, beruhigend, per Du, leicht verspielt.
+- **Kernaufgaben:** Ad Creatives, UGC-Skripte, Influencer-Outreach, CRO, organischer Social-Media-Content, Trend-Recherche, Schmerzpunkt-Analyse.
 - **Kein Code-Projekt:** Dieses Repo enthält Marketing-Dokumente in Markdown, keinen Anwendungscode. Es gibt keine Builds, Tests oder Linter.
 
 ## Grundregeln (immer gültig)
@@ -34,6 +35,11 @@
 | UGC-Skript | `.claude/skills/ugc-skript/` | `ugc-scripts/templates/ugc-skript-template.md` | `ugc-scripts/skripte/` |
 | Influencer-Outreach | `.claude/skills/influencer-outreach/` | `influencer-outreach/templates/outreach-template.md` | Tracker aktualisieren: `influencer-outreach/outreach-tracker.md` |
 | CRO-Audit / A/B-Test | `.claude/skills/cro-audit/` | `cro/templates/cro-audit-template.md` | `cro/audits/` + `cro/ab-test-log.md` |
+| Organischer Social-Post | Agent: `.claude/agents/knuvi-creative-agent.md` | `social-media/templates/post-template.md` | `social-media/posts/` |
+| Trend-Recherche (wöchentlich) | Agent: `.claude/agents/knuvi-trend-scout.md` | `research/templates/trend-report-template.md` | `research/trends/` |
+| Schmerzpunkt-Analyse (14-tägig) | Agent: `.claude/agents/knuvi-psychologie-analyst.md` | `research/templates/schmerzpunkt-analyse-template.md` | `research/schmerzpunkte/` |
+
+**Skills vs. Agents:** Die vier Skills erledigen Aufgaben direkt im Gespräch. Die drei Knuvi-Agents (`.claude/agents/`) sind eigenständige Subagenten für wiederkehrende Aufgaben – sie arbeiten nach denselben Grundregeln und No-Gos dieser Datei. Für bezahlte Ads gilt der Skill `ad-creative`, für organische Posts der `knuvi-creative-agent` – nicht verwechseln.
 
 ## Arbeitsablauf für jede Aufgabe
 

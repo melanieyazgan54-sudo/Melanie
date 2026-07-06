@@ -40,9 +40,11 @@ Jedes Stück Content gehört zu genau einer Säule. Die Säule bestimmt Ton und 
 |---|---|---|
 | Montag | Performance-Check der Vorwoche, Kennzahlen in Briefings/Test-Log nachtragen | `ad-creatives/kampagnen/`, `cro/ab-test-log.md` |
 | Dienstag | 2 neue Ad-Creative-Briefings | `ad-creatives/kampagnen/` |
-| Mittwoch | 1 UGC-Skript + Content für IG/TikTok planen | Skript: `ugc-scripts/skripte/` · IG/TikTok-Planung: direkt in der Antwort an Melanie (kein Repo-Ordner) |
+| Mittwoch | 1 UGC-Skript + organische Posts planen (Agent: `knuvi-creative-agent`) | Skript: `ugc-scripts/skripte/` · Posts: `social-media/posts/` |
 | Donnerstag | Influencer-Outreach: Recherche + Erstkontakt-Entwürfe, Follow-ups laut Tracker | `influencer-outreach/outreach-tracker.md` |
 | Freitag | Newsletter-Text + 1 CRO-Maßnahme (Audit-Punkt umsetzen oder Test starten) | Newsletter: direkt in der Antwort an Melanie (kein Repo-Ordner) · CRO: `cro/audits/`, `cro/ab-test-log.md` |
+
+Zusätzlich zu den Tagesaufgaben: **wöchentlich** Trend-Report (Montag, Agent `knuvi-trend-scout` → `research/trends/`) und **alle 2 Wochen** Schmerzpunkt-Analyse (Donnerstag, Agent `knuvi-psychologie-analyst` → `research/schmerzpunkte/`).
 
 ## 5. Monatsthemen Q3
 
