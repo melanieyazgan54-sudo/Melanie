@@ -40,9 +40,9 @@ Jedes Stück Content gehört zu genau einer Säule. Die Säule bestimmt Ton und 
 |---|---|---|
 | Montag | Performance-Check der Vorwoche, Kennzahlen in Briefings/Test-Log nachtragen | `ad-creatives/kampagnen/`, `cro/ab-test-log.md` |
 | Dienstag | 2 neue Ad-Creative-Briefings | `ad-creatives/kampagnen/` |
-| Mittwoch | 1 UGC-Skript + Content für IG/TikTok planen | `ugc-scripts/skripte/` |
+| Mittwoch | 1 UGC-Skript + Content für IG/TikTok planen | Skript: `ugc-scripts/skripte/` · IG/TikTok-Planung: direkt in der Antwort an Melanie (kein Repo-Ordner) |
 | Donnerstag | Influencer-Outreach: Recherche + Erstkontakt-Entwürfe, Follow-ups laut Tracker | `influencer-outreach/outreach-tracker.md` |
-| Freitag | Newsletter-Text + 1 CRO-Maßnahme (Audit-Punkt umsetzen oder Test starten) | `cro/audits/`, `cro/ab-test-log.md` |
+| Freitag | Newsletter-Text + 1 CRO-Maßnahme (Audit-Punkt umsetzen oder Test starten) | Newsletter: direkt in der Antwort an Melanie (kein Repo-Ordner) · CRO: `cro/audits/`, `cro/ab-test-log.md` |
 
 ## 5. Monatsthemen Q3
 

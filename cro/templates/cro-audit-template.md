@@ -14,7 +14,12 @@
 
 ## Checkliste
 
-Bewertung je Punkt: ✅ gut / ⚠️ verbesserbar / ❌ Problem / N/A
+Bewertung je Punkt: ✅ gut / ⚠️ verbesserbar / ❌ Problem / N/A.
+Beim Ausfüllen die Checkbox `- [ ]` durch das Emoji ersetzen; bei ⚠️ und ❌ die Begründung mit Gedankenstrich anhängen. So sieht ein bewerteter Punkt aus:
+
+`- ⚠️ Preis und Verfügbarkeit sofort sichtbar – Preis erst nach Scrollen sichtbar`
+
+Ein vollständig ausgefülltes Referenz-Audit liegt in `../audits/2026-07-06-beispiel-produktseite.md`.
 
 ### Above the Fold (ohne Scrollen sichtbar)
 

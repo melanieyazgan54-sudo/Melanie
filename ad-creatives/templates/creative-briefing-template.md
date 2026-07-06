@@ -37,6 +37,8 @@ Bei Video: Szenentabelle. Bei Static/Carousel: kompletter Anzeigentext.
 | 10–20 | | |
 | 20–30 | | |
 
+Zeilen je nach Ziel-Länge ergänzen oder entfernen – die Tabelle muss 0 Sek. bis zur Ziel-Länge lückenlos abdecken (Videos laut Content-Plan: 15–45 Sek.).
+
 ## CTA
 
 - **CTA-Text:** [z. B. „Jetzt 20 % sichern – nur diese Woche"]

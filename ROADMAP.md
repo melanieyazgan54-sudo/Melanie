@@ -17,7 +17,7 @@
 
 - [x] Ordnerstruktur für alle 4 Kernbereiche
 - [x] README, CLAUDE.md, Roadmap, Content-Plan
-- [x] Template + Beispiel pro Bereich
+- [x] Template + Referenz-Beispiel pro Bereich (Creative-Briefing, UGC-Skript, Beispiel-Audit, Beispielzeilen in Outreach-Tracker und Test-Log)
 - [x] Ein Claude-Skill pro Kernaufgabe, mit Akzeptanzkriterien
 
 **Fertig, wenn:** Ein frisches Claude-Modell kann jede der 4 Aufgaben nur mit den Dateien in diesem Repo ohne Rückfragen ausführen.

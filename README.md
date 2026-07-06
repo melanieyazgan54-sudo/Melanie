@@ -16,7 +16,7 @@ Dieses Repository ist die einzige Quelle der Wahrheit für alle Marketing-Assets
 | 🎬 UGC-Skripte | [`ugc-scripts/`](ugc-scripts/README.md) | Skripte für User-Generated-Content-Videos |
 | 🤝 Influencer-Outreach | [`influencer-outreach/`](influencer-outreach/README.md) | Outreach-Templates und Kontakt-Tracking |
 | 📈 CRO | [`cro/`](cro/README.md) | Shopify-Audits, A/B-Test-Log, Checklisten |
-| 🤖 Claude-Setup | [`CLAUDE.md`](CLAUDE.md) + [`.claude/skills/`](.claude/) | Regeln, Konventionen und Skills für Claude Code |
+| 🤖 Claude-Setup | [`CLAUDE.md`](CLAUDE.md) + [`.claude/skills/`](.claude/skills/) | Regeln, Konventionen und Skills für Claude Code |
 
 ## Schnellstart (für Claude Code)
 

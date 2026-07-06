@@ -29,7 +29,7 @@
 
 | Szene | Dauer | Bild (was ist zu sehen) | Gesprochener Text (wörtlich) | Text-Overlay |
 |---|---|---|---|---|
-| 1 – Hook | 0–3 Sek. | Creator nah an der Kamera, leicht verschwörerisch | „Okay, ich muss dir kurz was zeigen, bevor es wieder ausverkauft ist." | „POV: dein [Problem] hat ein Ende" |
+| 1 – Hook | 0–3 Sek. | Creator nah an der Kamera, leicht verschwörerisch | „Okay, ich muss dir kurz was zeigen – das hätte ich viel früher gebraucht." | „POV: dein [Problem] hat ein Ende" |
 | 2 – Problem | 3–10 Sek. | Alltagssituation, in der das Problem sichtbar nervt | „Ich hatte ewig [Problem]. Und ich habe wirklich alles probiert – [übliche Lösung 1], [übliche Lösung 2]. Nichts hat gehalten, was es verspricht." | „alles probiert ❌" |
 | 3 – Lösung | 10–20 Sek. | Produkt wird gezeigt und in Echtzeit angewendet | „Dann ist mir [Produkt] über den Weg gelaufen. Du machst nichts weiter als [Anwendung in einem Satz]. Das war's wirklich." | „so einfach ✅" |
 | 4 – Ergebnis | 20–26 Sek. | Ergebnis im Bild, Creator sichtbar zufrieden | „Und schau dir das an. Seit zwei Wochen [konkretes Ergebnis]. Ich bin ehrlich baff." | „nach 2 Wochen" |

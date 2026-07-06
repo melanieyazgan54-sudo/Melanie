@@ -22,7 +22,7 @@
 
 ## Hook (erste 3 Sekunden)
 
-> „Ich habe Jahre gebraucht, um das hier zu finden – du brauchst nur 30 Sekunden."
+> „Ich habe Jahre gesucht – du brauchst dafür nur 30 Sekunden."
 
 Quelle: Hook-Bibliothek Nr. 3 (Ergebnis zuerst), angepasst
 

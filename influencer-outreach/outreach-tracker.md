@@ -3,6 +3,7 @@
 > Zentrale Statusliste aller Influencer-Kontakte. Nur Zeilen ergänzen oder Status/Notizen aktualisieren – niemals Zeilen löschen oder die Tabelle neu aufbauen.
 
 **Status-Reihenfolge:** `recherchiert` → `erstkontakt entworfen` → `kontaktiert` → `follow-up 1` → `follow-up 2` → `in verhandlung` / `kooperation aktiv` / `abgesagt` / `keine antwort`
+**Sonderstatus:** `archiviert` – für Beispielzeilen und stillgelegte Kontakte, die außerhalb der normalen Reihenfolge liegen.
 
 | Name / Handle | Plattform | Follower | Nische | Status | Letzter Kontakt | Nächster Schritt | Notizen |
 |---|---|---|---|---|---|---|---|

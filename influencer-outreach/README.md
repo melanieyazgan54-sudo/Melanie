@@ -12,9 +12,11 @@
 ## Regeln
 
 - Jede Nachricht muss mindestens **zwei echte, konkrete Bezüge** auf den Content des Influencers enthalten (konkretes Video/Post benennen). Kein generisches „Ich liebe deinen Content!".
-- Entwürfe werden direkt in die Spalte „Notizen" des Trackers verlinkt oder bei kurzen DMs direkt in der Tracker-Notiz abgelegt.
+- Ablage der Entwürfe: Kurze DM-Entwürfe vollständig in die Spalte „Notizen" des Trackers; längere E-Mail-Entwürfe vollständig in der Antwort an Melanie ausgeben. Es gibt keinen eigenen Entwurfs-Ordner – keinen anlegen (No-Go in `CLAUDE.md`).
 - Tracker nie neu aufbauen, nur Zeilen ergänzen/aktualisieren.
 
 ## Status-Werte im Tracker
 
 `recherchiert` → `erstkontakt entworfen` → `kontaktiert` → `follow-up 1` → `follow-up 2` → dann: `in verhandlung` / `kooperation aktiv` / `abgesagt` / `keine antwort`
+
+Sonderstatus außerhalb der Reihenfolge: `archiviert` (Beispielzeilen, stillgelegte Kontakte).
