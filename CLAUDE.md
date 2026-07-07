@@ -20,7 +20,7 @@ Diese Fakten sind belegt und dürfen ohne Platzhalter verwendet werden – alles
 - **Slogan:** „Gönn dir eine Umarmung, die bleibt."
 - **Positionierung:** „das kuscheligste Gewichtstier 2026" (Kundenstimme aus den Winner-Skripten).
 - **Vorsicht bei Wirkaussagen:** Formulierungen wie „senkt den Cortisolspiegel", „setzt Serotonin frei", „reduziert Angst" stammen aus Melanies bezahlten Winner-Ads. In neuen Ads nur nach ihrem Muster verwenden; in organischem Content stattdessen weiche Formulierungen („kann helfen, zur Ruhe zu kommen"). Im Zweifel Melanie fragen.
-- **Kein Code-Projekt:** Dieses Repo enthält Marketing-Dokumente in Markdown, keinen Anwendungscode. Es gibt keine Builds, Tests oder Linter.
+- **Fast kein Code-Projekt:** Dieses Repo enthält Marketing-Dokumente in Markdown. Einzige Code-Ausnahme: `libs/remotion/` (Video-Rendering-Tooling, siehe dortiges README) – dort gelten normale Code-Regeln (npm install nötig, `node_modules`/`out` nie committen). Die Vorlagen-Bibliothek `marketingskills/` ist externer Referenz-Content (nur lesen, nicht bearbeiten).
 
 ## Grundregeln (immer gültig)
 

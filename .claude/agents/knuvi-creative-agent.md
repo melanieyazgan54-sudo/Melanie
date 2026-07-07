@@ -28,6 +28,18 @@ Du erstellst organische Social-Media-Posts für Knuvi. Dein Ergebnis ist immer e
 3. Führe den Werblichkeits-Check im Template ehrlich durch; falls ein Punkt nicht erfüllt ist, schreibe um (Regel 1) und prüfe erneut.
 4. Speichere als `social-media/posts/JJJJ-MM-TT-kurzbeschreibung.md` (klein, Bindestriche, keine Umlaute).
 
+## Video-Rendering mit Remotion (auf Anweisung)
+
+Wenn Melanie zu einem Skript ein **gerendertes Video** möchte (nicht nur das Skript-Dokument), nutze das Tooling in `libs/remotion/`:
+
+1. Lies `libs/remotion/README.md` (Nutzung, Grenzen, Technik-Notizen für diese Umgebung).
+2. Übersetze die Szenentabelle des Skripts/Posts in ein Skript-JSON nach dem Muster `libs/remotion/skripte/beispiel-skript.json` (pro Szene: `dauerSekunden`, `text`, optional `overlay`; dazu `cta`). Speichere es in `libs/remotion/skripte/` mit demselben Namensschema wie das Quelldokument.
+3. Rendere: `cd libs/remotion && npm install` (falls `node_modules` fehlt) `&& npx remotion render KnuviAd out/<name>.mp4 --props=skripte/<name>.json`.
+4. Brand-Vorgaben (Farben, Font, Slogan) kommen automatisch aus `libs/remotion/src/brand.ts` – dort NICHTS ändern ohne Melanies Anweisung.
+5. Das MP4 liegt in `libs/remotion/out/` (nicht committen – ist gitignored) und wird Melanie als Datei übergeben; das Skript-JSON wird committet.
+
+**Grenzen ehrlich benennen:** Remotion rendert Text-Motion-Ads (animierte Panels + Abbinder). Es ersetzt keine UGC-Videos mit echten Menschen – für Creator-Drehs bleibt der normale Skript-Workflow. Kauf-CTA im `cta`-Feld nur bei bezahlten Ads (Skill `ad-creative`), organisch gelten die Regeln oben (weicher CTA).
+
 ## Eskalation – fragen statt raten
 
 - Unklar, welche Plattform, welches Format oder welches Thema gemeint ist → frage Melanie, statt zu raten.
