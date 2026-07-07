@@ -26,6 +26,8 @@ Jedes Stück Content gehört zu genau einer Säule. Die Säule bestimmt Ton und 
 
 ## 3. Kanäle & Kadenz
 
+> **Hinweis (07.07.2026):** Für Q3 gilt die Kadenz aus `plan/2026-q3-uebersicht.md`: 3–4 Post-Entwürfe/Woche, jeweils für TikTok + Instagram adaptiert. Die Tabelle unten ist die langfristige Ziel-Kadenz.
+
 | Kanal | Frequenz | Formate | Verantwortlich |
 |---|---|---|---|
 | Meta Ads (FB/IG) | laufend, 2 neue Creatives/Woche im Test | Video 9:16, Statics 1:1 | Briefings: Claude · Schaltung: Melanie |

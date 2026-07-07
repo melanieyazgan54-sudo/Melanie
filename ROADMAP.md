@@ -4,16 +4,16 @@
 
 **Stand:** 07.07.2026 · **Nächster Review:** jeweils am Ende einer Phase
 
-> **Operative Umsetzung:** Der wochengenaue Q3-Plan mit fertigen Agent-Arbeitsaufträgen liegt in [`plan/2026-q3-uebersicht.md`](plan/2026-q3-uebersicht.md) – er konkretisiert die Phasen 2–4 dieser Roadmap mit dem North Star „10.000 € Monatsumsatz im September bei ROAS ≥ 2,0".
+> **⚠️ Maßgeblichkeit (seit 07.07.2026):** Die Phasen 2–4 dieser Datei sind durch den wochengenauen Q3-Plan in [`plan/2026-q3-uebersicht.md`](plan/2026-q3-uebersicht.md) **ersetzt** (North Star: 10.000 € Monatsumsatz im September bei ROAS ≥ 2,0). Der Q3-Plan testet ab KW 28 und skaliert ab KW 32 – bei Abweichungen zwischen beiden Dateien gilt IMMER der Q3-Plan. Die Phasen unten bleiben nur als historischer Kontext stehen.
 
 ## Überblick
 
 | Phase | Zeitraum | Ziel | Status |
 |---|---|---|---|
 | 1 – Fundament | KW 28 (bis 12.07.2026) | Repo-Struktur, Templates, Claude-Setup stehen | ✅ erledigt |
-| 2 – Content-Produktion | KW 29–32 (13.07.–09.08.) | Erste Assets für alle 4 Bereiche produziert | 🔜 als Nächstes |
-| 3 – Testen & Messen | KW 33–36 (10.08.–06.09.) | A/B-Tests laufen, erste Daten im Test-Log | ⏳ geplant |
-| 4 – Skalieren | ab KW 37 (ab 07.09.) | Gewinner skalieren, Verlierer aussortieren | ⏳ geplant |
+| 2 – Content-Produktion | ~~KW 29–32~~ | Erste Assets für alle 4 Bereiche produziert | ▶ ersetzt durch `plan/2026-07-juli.md` (startet KW 28) |
+| 3 – Testen & Messen | ~~KW 33–36~~ | A/B-Tests laufen, erste Daten im Test-Log | ▶ ersetzt durch `plan/` (Testen ab KW 28, Reviews R1–R6) |
+| 4 – Skalieren | ~~ab KW 37~~ | Gewinner skalieren, Verlierer aussortieren | ▶ ersetzt durch `plan/2026-08-august.md` (Skalierung ab KW 32) |
 
 ## Phase 1 – Fundament (erledigt)
 

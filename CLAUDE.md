@@ -37,7 +37,7 @@ Diese Fakten sind belegt und dürfen ohne Platzhalter verwendet werden – alles
 - ❌ Keine Heilversprechen oder rechtlich riskante Werbeaussagen („heilt", „garantiert Abnehmen", „das Beste der Welt" ohne Beleg).
 - ❌ Keine Ordner oder Dateien außerhalb der bestehenden Struktur anlegen, ohne vorher zu fragen.
 - ❌ Keine Dateien löschen oder umbenennen, ohne vorher zu fragen.
-- ❌ Tracker-Dateien (`outreach-tracker.md`, `ab-test-log.md`) nie neu aufbauen – nur Zeilen ergänzen oder Status aktualisieren.
+- ❌ Tracker-Dateien (`outreach-tracker.md`, `ab-test-log.md`, `plan/kpi-log.md`) nie neu aufbauen – nur Zeilen ergänzen oder Status aktualisieren.
 - ❌ Nichts direkt an Influencer/Kunden senden – dieses Repo erstellt nur Entwürfe.
 
 ## Pfade und Zuständigkeiten
@@ -53,6 +53,8 @@ Diese Fakten sind belegt und dürfen ohne Platzhalter verwendet werden – alles
 | Schmerzpunkt-Analyse (14-tägig) | Agent: `.claude/agents/knuvi-psychologie-analyst.md` | `research/templates/schmerzpunkt-analyse-template.md` | `research/schmerzpunkte/` |
 
 **Skills vs. Agents:** Die vier Skills erledigen Aufgaben direkt im Gespräch. Die drei Knuvi-Agents (`.claude/agents/`) sind eigenständige Subagenten für wiederkehrende Aufgaben – sie arbeiten nach denselben Grundregeln und No-Gos dieser Datei. Für bezahlte Ads gilt der Skill `ad-creative`, für organische Posts der `knuvi-creative-agent` – nicht verwechseln.
+
+**Operativer Quartalsplan:** Der wochengenaue Q3-Plan liegt in `plan/` (Übersicht + Monatsdateien + `kpi-log.md`). Plan-Dokumente in `plan/` sind von der Template-Pflicht ausgenommen; neue Plan-Dateien folgen der Struktur von `plan/2026-q3-uebersicht.md`. Das `plan/kpi-log.md` ist eine Tracker-Datei (siehe No-Gos). Bei Widersprüchen zwischen `ROADMAP.md` und `plan/` gilt `plan/`.
 
 ## Arbeitsablauf für jede Aufgabe
 

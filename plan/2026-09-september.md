@@ -55,8 +55,8 @@
 | Do | **Black-Friday-Planung (Teil 2):** BF-Zeitplan als Datei `plan/2026-q4-black-friday-vorbereitung.md` anlegen: Creative-Vorlauf, Angebots-Freigabe, Versand-Puffer [PLATZHALTER: Melanies BF-Angebot aus KW 38] | BF-Plan steht |
 | Fr | **Melanie:** Quartalszahlen für R6 sammeln | Vorlage für R6 |
 
-## KW 40-Anfang (Mo 28.09.) – Review R6: Quartalsabschluss
+## KW 40-Anfang (Mo 28.09.) – Review R6: Quartalsabschluss (Hochrechnung)
 
-- **North Star prüfen:** 10.000 € erreicht? ROAS ≥ 2,0 gehalten? → Ergebnis in `plan/kpi-log.md`, Abschluss-Notiz in dieser Datei.
+- **North Star prüfen (Hochrechnung):** Kurs auf 10.000 €? ROAS ≥ 2,0 gehalten? → Ergebnis in `plan/kpi-log.md`. Die **finale** September-Zahl wird am **Do 01.10. (R6-final)** aus Shopify nachgetragen – erst sie entscheidet über den Meilenstein.
 - **Übergabe Q4:** Gewinner-Assets, validierte Hooks (Hook-Bibliothek aktualisieren), BF-Plan als Startpunkt für die Q4-Roadmap.
 - **Retro (3 Fragen, 15 Min):** Was hat pro Monat am meisten Umsatz gebracht? Welche Regel hat sich bewährt/nicht bewährt? Was übernimmt die Q4-Planung?
