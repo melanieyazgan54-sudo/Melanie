@@ -11,6 +11,7 @@ Dieses Repository ist die einzige Quelle der Wahrheit für alle Marketing-Assets
 | Bereich | Ordner | Wofür |
 |---|---|---|
 | 📍 Projekt-Roadmap | [`ROADMAP.md`](ROADMAP.md) | Phasenplan: Was wird wann aufgebaut |
+| 🎯 Q3-Plan (operativ) | [`plan/`](plan/2026-q3-uebersicht.md) | Wochengenauer Umsetzungsplan Jul–Sep 2026: North Star 10.000 €/Monat, Reviews, Agent-Arbeitsaufträge |
 | 📅 Content-Plan | [`content-plan/`](content-plan/CONTENT-PLAN.md) | Marketing-Content-Plan: Kanäle, Säulen, Kadenz, KPIs |
 | 🎨 Ad Creatives | [`ad-creatives/`](ad-creatives/README.md) | Briefings, Hooks und Kampagnen für Meta/TikTok Ads |
 | 🎬 UGC-Skripte | [`ugc-scripts/`](ugc-scripts/README.md) | Skripte für User-Generated-Content-Videos |

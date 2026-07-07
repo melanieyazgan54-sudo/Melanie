@@ -2,7 +2,9 @@
 
 > Diese Datei ist der Phasenplan für den Aufbau des Marketing-Systems: was in welcher Reihenfolge entsteht und woran wir erkennen, dass eine Phase abgeschlossen ist.
 
-**Stand:** 06.07.2026 · **Nächster Review:** jeweils am Ende einer Phase
+**Stand:** 07.07.2026 · **Nächster Review:** jeweils am Ende einer Phase
+
+> **Operative Umsetzung:** Der wochengenaue Q3-Plan mit fertigen Agent-Arbeitsaufträgen liegt in [`plan/2026-q3-uebersicht.md`](plan/2026-q3-uebersicht.md) – er konkretisiert die Phasen 2–4 dieser Roadmap mit dem North Star „10.000 € Monatsumsatz im September bei ROAS ≥ 2,0".
 
 ## Überblick
 
