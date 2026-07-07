@@ -56,6 +56,17 @@ Diese Fakten sind belegt und dürfen ohne Platzhalter verwendet werden – alles
 
 **Operativer Quartalsplan:** Der wochengenaue Q3-Plan liegt in `plan/` (Übersicht + Monatsdateien + `kpi-log.md`). Plan-Dokumente in `plan/` sind von der Template-Pflicht ausgenommen; neue Plan-Dateien folgen der Struktur von `plan/2026-q3-uebersicht.md`. Das `plan/kpi-log.md` ist eine Tracker-Datei (siehe No-Gos). Bei Widersprüchen zwischen `ROADMAP.md` und `plan/` gilt `plan/`.
 
+## Token-Disziplin
+
+Destilliert aus `libs/context-engineering/` (Stand 2026-07-07). Diese sechs Regeln gelten in jeder Session – sie halten den Kontext klein und die Qualität hoch, besonders bei kleineren Modellen:
+
+1. **Gezielt lesen, nie Ordner laden:** Die Referenz-Bibliotheken (`marketingskills/`, `libs/context-engineering/`, `libs/find-skills/`) sind zusammen >10 MB. Immer nur die eine benötigte Datei lesen (z. B. eine SKILL.md), niemals ganze Ordner oder README-Ketten. Erst die Pfad-Tabelle oben konsultieren, dann exakt eine Quelle öffnen.
+2. **Recherche in Subagenten:** Web-Recherche und Analysen laufen über die Knuvi-Agents (`knuvi-trend-scout`, `knuvi-psychologie-analyst`) – deren Zwischenschritte bleiben draußen, nur das Ergebnis-Dokument kommt zurück. Recherche nie im Hauptgespräch ausrollen.
+3. **Ergebnisse in Dateien, nicht in den Chat:** Jedes Deliverable wird als Datei im Zielordner gespeichert (Pfad-Tabelle); die Antwort an Melanie enthält nur Zusammenfassung, Pfad und offene Platzhalter – nie den kompletten Dateiinhalt wiederholen.
+4. **Eine Session = eine Aufgabe:** Lange Sessions verlieren die Mitte („lost in the middle"). Wochenaufgaben aus `plan/` einzeln in frischen Sessions starten statt eine Mammut-Session zu führen. Alles Wichtige steht in Dateien – eine neue Session verliert nichts.
+5. **Übergabe schreiben statt weiterwursteln:** Wird eine Session doch lang oder bleibt etwas offen, am Ende eine kurze Übergabe festhalten (was entschieden, welche Dateien geändert, was offen) – als Notiz in der betroffenen Datei oder in der Antwort. Die nächste Session startet damit ohne Rekonstruktionsaufwand.
+6. **Nur laden, was die Aufgabe braucht:** Pro Aufgabe genügen CLAUDE.md + der eine Skill/Agent + das eine Template + ggf. der aktuelle Report. Nicht das Repo scannen, keine „zur Sicherheit"-Lektüre benachbarter Ordner.
+
 ## Arbeitsablauf für jede Aufgabe
 
 1. Passenden Skill lesen (Tabelle oben).
