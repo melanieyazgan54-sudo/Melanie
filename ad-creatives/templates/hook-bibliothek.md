@@ -20,6 +20,7 @@
 | 6 | Social Proof | „Über [Zahl PLATZHALTER] Kundinnen machen das schon – so geht's." | ⬜ ungetestet |
 | 7 | Vorher/Nachher | „Links: vor [Produkt]. Rechts: 3 Wochen später." | ⬜ ungetestet |
 | 8 | Fehler-Warnung | „Mach diesen Fehler nicht, wenn du [Ziel] willst." | ⬜ ungetestet |
+| 9 | Uhrzeit + Problem-Zuspitzung | „23:47 Uhr. Und dein Kopf fängt gerade erst an." | ⬜ ungetestet |
 
 ## Regeln für neue Hooks
 
